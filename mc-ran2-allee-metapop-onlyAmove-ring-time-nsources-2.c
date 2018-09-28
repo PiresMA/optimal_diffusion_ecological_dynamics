@@ -1,8 +1,8 @@
-/** Authors: M.A.Pires and N.Crokidakis
+/** Authors: M.A.Pires and  SÍlvio M. Duarte Queirós
 *** Main program to the Monte Carlo Simulation of the model presented in paper
 *** Optimal diffusion in ecological dynamics  with Allee effect in a metapopulation
 ***
-*** Specifically this code yields the results shown in Fig.3-a, but with small
+*** Specifically this code yields the results shown in Fig.1, but with small
 *** modifications all the other results presented in our paper can be obtained.
 *** Do not hesitate to contact me: piresma@cbpf.br  or pires.ma.fisica@gmail.com
 ***/
