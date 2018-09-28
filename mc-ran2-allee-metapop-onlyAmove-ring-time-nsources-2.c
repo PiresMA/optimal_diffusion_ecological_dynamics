@@ -1,4 +1,4 @@
-/** Authors: M.A.Pires and  SÍlvio M. Duarte Queirós
+/** Authors: M.A.Pires and  Sílvio M. Duarte Queirós
 *** Main program to the Monte Carlo Simulation of the model presented in paper
 *** Optimal diffusion in ecological dynamics  with Allee effect in a metapopulation
 ***
@@ -26,7 +26,7 @@ double fatorIo = 1.0;
 #define L nsubp               //int nn=2;
 #define nn 2
 
-#define tmax      3 //number of time steps to simulate over
+#define tmax      400 //number of time steps to simulate over
 #define t_steady  1 // NAO USO AQUI: time to reach the steady state
 #define cnt       10 // distancia entre medidas
 
